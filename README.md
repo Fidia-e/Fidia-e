@@ -6,7 +6,6 @@
 *****************
 
 - 🔭 I’m currently working on : a (private for the moment) project of a young artist who exhibits his works
-- 🌱 I’m also learning : <img src='https://fr.vuejs.org/images/logo.png' alt='VueJs' height='20'> _**V**ue.js_
 
 *****************
 
@@ -44,6 +43,8 @@
 
 ## 📈 Stats :
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fidia-e&show_icons=true)
+
+- 🌱 I’m also learning : <img src='https://fr.vuejs.org/images/logo.png' alt='VueJs' height='20'> _**V**ue.js_
 
 
 In process... ⚙️🔧🔨
