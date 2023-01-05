@@ -21,7 +21,7 @@
 
 - ![stack Composer](https://img.shields.io/badge/Composer-885630.svg?style=plastic&logo=Composer&logoColor=white) ![stack npm](https://img.shields.io/badge/npm-CB3837.svg?style=plastic&logo=npm) ![stack yarn](https://img.shields.io/badge/yarn-2C8EBB.svg?style=plastic&logo=yarn&logoColor=white) ![stack Babel](https://img.shields.io/badge/Babel-F9DC3E.svg?style=plastic&logo=Babel&logoColor=black) 
 
-- ![stack Git](https://img.shields.io/badge/Git-F05032.svg?style=plastic&logo=Git&logoColor=white) ![stack GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=plastic&logo=GitHub) ![stack WebStorm](https://img.shields.io/badge/WebStorm-000000.svg?style=plastic&logo=WebStorm) ![stack Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=plastic&logo=Visual-Studio-Code)
+- ![stack Git](https://img.shields.io/badge/Git-F05032.svg?style=plastic&logo=Git&logoColor=white) ![stack GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=plastic&logo=GitHub) ![stack Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=plastic&logo=Visual-Studio-Code) ![stack WebStorm](https://img.shields.io/badge/WebStorm-000000.svg?style=plastic&logo=WebStorm)
 
 - ![stack Apache](https://img.shields.io/badge/Apache-D22128.svg?style=plastic&logo=Apache) ![stack Ubuntu](https://img.shields.io/badge/Ubuntu-E95420.svg?style=plastic&logo=Ubuntu&logoColor=white) ![stack Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E.svg?style=plastic&logo=Amazon-AWS)
 
