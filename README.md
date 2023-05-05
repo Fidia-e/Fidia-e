@@ -11,7 +11,7 @@
 
 ## 🪄 Technologies, Languages, Tools and Environments :
 
-- ![stack React](https://img.shields.io/badge/React-61DAFB.svg?style=plastic&logo=React&logoColor=black) ![stack NodeJs](https://img.shields.io/badge/NodeJs-339933.svg?style=plastic&logo=Node.js&logoColor=white) ![stack iOS](https://img.shields.io/badge/iOS-000000.svg?style=plastic&logo=iOS&logoColor=white) ![stack Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=plastic&logo=Android%20Studio&logoColor=white) ![stack WordPress](https://img.shields.io/badge/WordPress-21759B.svg?style=plastic&logo=WordPress) 
+- ![stack React](https://img.shields.io/badge/React-61DAFB.svg?style=plastic&logo=React&logoColor=black) ![stack NodeJs](https://img.shields.io/badge/NodeJs-339933.svg?style=plastic&logo=Node.js&logoColor=white) ![stack MobX](https://img.shields.io/badge/MobX-FF9955.svg?style=plastic&logo=MobX&logoColor=white) ![stack Redux](https://img.shields.io/badge/Redux-764ABC.svg?style=plastic&logo=Redux&logoColor=white) ![stack React Native](https://img.shields.io/badge/React%20Native-61DAFB.svg?style=plastic&logo=React&logoColor=black) ![stack WordPress](https://img.shields.io/badge/WordPress-21759B.svg?style=plastic&logo=WordPress) 
 
 - ![stack JS](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=plastic&logo=JavaScript&logoColor=black) ![stack TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?style=plastic&logo=TypeScript&logoColor=white) ![stack PHP](https://img.shields.io/badge/PHP-777BB4.svg?style=plastic&logo=PHP&logoColor=white) ![stack Sass](https://img.shields.io/badge/Sass-CC6699.svg?style=plastic&logo=Sass&logoColor=white)
 
