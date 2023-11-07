@@ -8,6 +8,7 @@ Last works :
 - https://julie-eggen.com/
 - https://lamainsurlecoeur.fr/
 - https://rencontressouslecerisier.fr/
+- https://dev.ottoisdrawing.com/
 
 🛠️ I’m currently working on the mobile application Kidiparc : https://kidiparc.com/
 
