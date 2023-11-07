@@ -4,8 +4,12 @@
 ### 🤝 Let's connect !  [![My LinkedIn profil](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=plastic&logo=LinkedIn)](https://www.linkedin.com/in/fidiaelbouanani/)
 
 *****************
+Last works :
+- https://julie-eggen.com/
+- https://lamainsurlecoeur.fr/
+- https://rencontressouslecerisier.fr/
 
-- 🛠️ I’m currently working on : (private for the moment) various projects of a young artist who exhibits his works, a psychologist and two associations.
+🛠️ I’m currently working on the mobile application Kidiparc : https://kidiparc.com/
 
 *****************
 
