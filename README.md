@@ -4,12 +4,6 @@
 ### 🤝 Let's connect !  [![My LinkedIn profil](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=plastic&logo=LinkedIn)](https://www.linkedin.com/in/fidiaelbouanani/)
 
 *****************
-Last works :
-- https://lnbienetre.com/
-- https://julie-eggen.com/
-- https://lamainsurlecoeur.fr/
-- https://rencontressouslecerisier.fr/
-- https://dev.ottoisdrawing.com/
 
 🛠️ I’m currently working on the mobile application Kidiparc : https://kidiparc.com/
 
