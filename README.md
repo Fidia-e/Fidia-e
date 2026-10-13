@@ -1,13 +1,17 @@
 # Hi there ! 👋
 
-### 👩🏼‍💻 I'm Fidia and I'm a french web & mobile developer
+### 👩🏻‍💻 I'm Fidia and I'm a french app designer and developer
 ### 🤝 Let's connect !  [![My LinkedIn profil](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=plastic&logo=LinkedIn)](https://www.linkedin.com/in/fidiaelbouanani/)
 
 *****************
 
-🛠️ I’m currently working on the mobile application Kidiparc : https://kidiparc.com/
+![Jokes Card](https://readme-jokes.vercel.app/api)
+*don't forget to refresh ;)*
 
 *****************
+
+<!--
+🛠️ I’m currently working on the mobile application Kidiparc : https://kidiparc.com/
 
 ## 🪄 Technologies, Languages, Tools and Environments :
 
@@ -33,11 +37,7 @@
 *****************
 
 ### 🥁 Because I now understand developer jokes :  
-![Jokes Card](https://readme-jokes.vercel.app/api)
-*don't forget to refresh ;)*
 
-
-<!--
 
 ## 📈 Stats :
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fidia-e&show_icons=true)
